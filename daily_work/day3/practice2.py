@@ -11,7 +11,7 @@ for i in l:
 print(l_new)
 
 # 3.去除文件中重复的行，肯定要保持文件内容的顺序不变(后面的章节会讲文件操作)
-with open('date.txt','r') as read_f, open('date2.txt','w') as write_f:
+with open('data.txt','r') as read_f, open('data2.txt','w') as write_f:
     lines_new = []
     for line in read_f:
         if line not in lines_new:
