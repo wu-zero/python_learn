@@ -4,6 +4,7 @@
 # 4、实现功能：grep  -rl  'python'  /etc
 # 5、Python语言 实现八皇后问题
 
+
 # 1、自定义函数模拟range(1,7,2)
 def my_range(start, stop, step=1):
     while start < stop:
@@ -70,6 +71,7 @@ def eater(name):
 #     g = eater('albert')
 #     g.send('鱼香肉丝')
 #     g.send('回锅肉')
+
 
 # 4、实现功能：grep  -rl  'python'  /etc
 import os
