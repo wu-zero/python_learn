@@ -1,4 +1,4 @@
-# day7
+# day9
 #### 1. 自定义函数模拟range(1,7,2)
 见代码
 #### 2. 模拟管道，实现功能:tail -f access.log | grep '404'

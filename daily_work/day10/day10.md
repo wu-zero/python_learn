@@ -1,4 +1,4 @@
-# day7
+# day10
 #### 1. 将```names=['albert','james','kobe','kd']```中的名字全部变大写
 见代码
 
