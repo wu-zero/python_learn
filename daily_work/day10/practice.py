@@ -48,10 +48,12 @@ print('='*50)
 
 # 5、思考题
 # with open('a.txt') as f:
-#     g=(len(line) for line in f)
-# print(sum(g)) #为何报错？
+#     g = (len(line) for line in f)
+#
+# print(sum(g))
+#print(sum(g)) #为何报错？
 
-# 处理了已经被关闭的数据，g数据在with内部，处理它应该放在with内部
+# 处理了已经被关闭的数据，g是一个生成器对象，它的作用域在with内部？
 
 
 #6、文件shopping.txt内容如下
