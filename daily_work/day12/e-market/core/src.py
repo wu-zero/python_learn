@@ -84,7 +84,7 @@ def buy():
             print(goods_bought_dic)
             print('你还有%d元' % money)
             break
-        elif len(input_str_split) == 3:
+        elif len(input_str_split) == 3 and input_str_split[0] == 'buy' and input_str_split[1] in goods_dict:
             goods, number = input_str_split[1], input_str_split[2]
             if goods in goods_dict:
                 goods_price = goods_dict[input_str_split[1]] * int(input_str_split[2])
@@ -97,6 +97,8 @@ def buy():
                         goods_bought_dic[goods] = number
                 else:
                     print('你没有足够的钱')
+        else:
+            print('请输入:\'buy goods(such as apple) number(such 5)\' or \'q\' ')
 
 @auth
 def withdraw_money():
