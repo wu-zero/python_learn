@@ -51,7 +51,7 @@ def auth(func):
             register_flag = input('用户名不存在，是否注册? 是(Y or y) 否(others)\n')
             if register_flag in ['Y', 'y']:
                 password = input('password>>: ')
-                db[name] = {"password": password, "money": 0}
+                db[name] = {"password": password, "money": 0,"locked":0}
                 logger.info('登录成功')
                 print('登录成功')
                 current_user['user'] = name
