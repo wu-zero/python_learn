@@ -2,12 +2,12 @@
 
 
 class CarMeta(type):
-    def __init__(self, class_name, class_base, class_dic):
-        super(CarMeta, self).__init__(class_name,class_base,class_dic)
+    def __init__(cls, class_name, class_base, class_dic):
+        super(CarMeta, cls).__init__(class_name, class_base, class_dic)
 
-    def __call__(self, *args, **kwargs):
-        obj = object.__new__(self)
-        self.__init__(obj,*args,**kwargs)
+    def __call__(cls, *args, **kwargs):
+        obj = object.__new__(cls)
+        cls.__init__(obj, *args, **kwargs)
 
         if 'production_date' not in dir(obj):
             raise TypeError('not include production_date')

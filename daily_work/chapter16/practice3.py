@@ -4,7 +4,7 @@
 # 元类方法
 class SingletonMeta(type):
     def __init__(cls, class_name, class_base, class_dic):
-        cls.__instance = None  # 保存实例化的对象,没就None
+        cls.__instance = None  # 保存实例化的对象,没就None,保存到实例化的类里
         super(SingletonMeta, cls).__init__(class_name, class_base, class_dic)
 
     def __call__(cls, *args, **kwargs):  # 以SingletonMeta为元类的类实例化对象的时候
