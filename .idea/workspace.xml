@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab7b00e-9066-4069-99a7-43e148794089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter15/chapter15.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter15/practice10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter15/practice11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter15/practice12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter15/practice13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_work/chapter16/practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_work/chapter16/practice3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_work/chapter16/practice3_Singleton3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,15 +21,16 @@
     <SUITE FILE_PATH="coverage/python_learn$practice8.coverage" NAME="practice8 Coverage Results" MODIFIED="1547216826653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
     <SUITE FILE_PATH="coverage/python_learn$multiplication_table.coverage" NAME="multiplication_table Coverage Results" MODIFIED="1546863104027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
     <SUITE FILE_PATH="coverage/python_learn$practice__2_.coverage" NAME="practice (2) Coverage Results" MODIFIED="1547560659849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day13" />
+    <SUITE FILE_PATH="coverage/python_learn$Foo3.coverage" NAME="Foo3 Coverage Results" MODIFIED="1547985441118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
     <SUITE FILE_PATH="coverage/python_learn$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1546863525281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
     <SUITE FILE_PATH="coverage/python_learn$practice5.coverage" NAME="practice5 Coverage Results" MODIFIED="1547211377455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
     <SUITE FILE_PATH="coverage/python_learn$start.coverage" NAME="start Coverage Results" MODIFIED="1547439787875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day12/e-market/bin" />
     <SUITE FILE_PATH="coverage/python_learn$practice1__1_.coverage" NAME="practice1 (1) Coverage Results" MODIFIED="1547123608110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
-    <SUITE FILE_PATH="coverage/python_learn$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1546929752986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day3" />
+    <SUITE FILE_PATH="coverage/python_learn$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1547984311987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
     <SUITE FILE_PATH="coverage/python_learn$practice2__1_.coverage" NAME="practice2 (1) Coverage Results" MODIFIED="1547045980109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day5" />
     <SUITE FILE_PATH="coverage/python_learn$log_in_system.coverage" NAME="log_in_system Coverage Results" MODIFIED="1546862768897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
     <SUITE FILE_PATH="coverage/python_learn$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1547295174447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day9" />
-    <SUITE FILE_PATH="coverage/python_learn$practice.coverage" NAME="practice Coverage Results" MODIFIED="1547306335555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day10" />
+    <SUITE FILE_PATH="coverage/python_learn$practice.coverage" NAME="practice Coverage Results" MODIFIED="1547983783251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
     <SUITE FILE_PATH="coverage/python_learn$src.coverage" NAME="src Coverage Results" MODIFIED="1547389816450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day12/e-market/core" />
     <SUITE FILE_PATH="coverage/python_learn$practice13.coverage" NAME="practice13 Coverage Results" MODIFIED="1547674696429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
     <SUITE FILE_PATH="coverage/python_learn$practice4.coverage" NAME="practice4 Coverage Results" MODIFIED="1547210592723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
@@ -42,7 +41,7 @@
     <SUITE FILE_PATH="coverage/python_learn$practice9.coverage" NAME="practice9 Coverage Results" MODIFIED="1547216891539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
     <SUITE FILE_PATH="coverage/python_learn$practice__1_.coverage" NAME="practice (1) Coverage Results" MODIFIED="1547306589954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day11" />
     <SUITE FILE_PATH="coverage/python_learn$d.coverage" NAME="d Coverage Results" MODIFIED="1547676966914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
-    <SUITE FILE_PATH="coverage/python_learn$practice3.coverage" NAME="practice3 Coverage Results" MODIFIED="1547046357000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day5" />
+    <SUITE FILE_PATH="coverage/python_learn$practice3.coverage" NAME="practice3 Coverage Results" MODIFIED="1547988062305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
     <SUITE FILE_PATH="coverage/python_learn$guess_age2_0.coverage" NAME="guess_age2.0 Coverage Results" MODIFIED="1546861636434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
     <SUITE FILE_PATH="coverage/python_learn$practice__3_.coverage" NAME="practice (3) Coverage Results" MODIFIED="1547622139418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter14" />
     <SUITE FILE_PATH="coverage/python_learn$practice6.coverage" NAME="practice6 Coverage Results" MODIFIED="1547216655530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
@@ -80,7 +79,7 @@
           <entry key="log" value="4" />
           <entry key="md" value="24" />
           <entry key="npy" value="1" />
-          <entry key="py" value="85" />
+          <entry key="py" value="88" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
@@ -89,17 +88,17 @@
           <entry key="JSON" value="2" />
           <entry key="Markdown" value="24" />
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="85" />
+          <entry key="Python" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="16" />
+          <entry key="dummy" value="37" />
           <entry key="json" value="75" />
           <entry key="log" value="72" />
           <entry key="md" value="448" />
           <entry key="npy" value="1" />
-          <entry key="py" value="13920" />
+          <entry key="py" value="16150" />
           <entry key="txt" value="126" />
         </counts>
       </usages-collector>
@@ -107,8 +106,8 @@
         <counts>
           <entry key="JSON" value="75" />
           <entry key="Markdown" value="446" />
-          <entry key="PLAIN_TEXT" value="215" />
-          <entry key="Python" value="13922" />
+          <entry key="PLAIN_TEXT" value="236" />
+          <entry key="Python" value="16152" />
         </counts>
       </usages-collector>
     </session>
@@ -131,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="154">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -149,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="-355">
               <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <marker date="1547672641076" expanded="true" signature="145:150" ph="..." />
@@ -164,7 +163,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
+            <state relative-caret-position="203">
               <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
               <folding>
                 <marker date="1547674696394" expanded="true" signature="730:735" ph="..." />
@@ -175,12 +174,51 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daily_work/chapter16/practice2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="6" />
+              <folding>
+                <marker date="1547984406678" expanded="true" signature="128:133" ph="..." />
+                <marker date="1547984406678" expanded="true" signature="187:264" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daily_work/chapter16/practice3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="59" column="42" lean-forward="true" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+              <folding>
+                <marker date="1547988490789" expanded="true" signature="130:135" ph="..." />
+                <marker date="1547988490789" expanded="true" signature="644:694" ph="..." />
+                <marker date="1547988490789" expanded="true" signature="724:725" ph="..." />
+                <marker date="1547988490789" expanded="true" signature="724:784" ph="..." />
+                <marker date="1547988490789" expanded="true" signature="1008:1013" ph="..." />
+                <marker date="1547988490789" expanded="true" signature="1296:1532" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daily_work/chapter16/practice3_Singleton3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_work/chapter15/chapter15.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1232">
-                <caret line="56" column="10" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+              <first_editor relative-caret-position="1254">
+                <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -193,27 +231,6 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="154">
                 <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/day11/a.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/day10/day10.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -244,11 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/daily_work/day5/test.txt" />
-        <option value="$PROJECT_DIR$/daily_work/day5/a.txt" />
-        <option value="$PROJECT_DIR$/daily_work/day5/practice2.py" />
-        <option value="$PROJECT_DIR$/daily_work/day5/practice3.py" />
-        <option value="$PROJECT_DIR$/daily_work/day5/b.txt" />
         <option value="$PROJECT_DIR$/daily_work/day5/practice4.py" />
         <option value="$PROJECT_DIR$/daily_work/day6/practice1.py" />
         <option value="$PROJECT_DIR$/daily_work/day6/date2.txt" />
@@ -295,6 +307,11 @@
         <option value="$PROJECT_DIR$/daily_work/chapter15/practice13.py" />
         <option value="$PROJECT_DIR$/daily_work/chapter15/practice10.py" />
         <option value="$PROJECT_DIR$/daily_work/chapter15/d.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter16/practice.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter16/practice2.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter16/Foo3.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter16/practice3_Singleton3.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter16/practice3.py" />
       </list>
     </option>
   </component>
@@ -332,13 +349,7 @@
               <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learn" type="462c0819:PsiDirectoryNode" />
               <item name="daily_work" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="daily_work" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter15" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
@@ -401,7 +412,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d">
+  <component name="RunManager" selected="Python.practice3">
+    <configuration name="Foo3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter16\practice3_Singleton3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="d" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -424,7 +457,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -432,12 +465,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter14/practice.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter16\practice2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,7 +479,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -454,12 +487,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter15/practice11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter16/practice2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -468,7 +501,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -476,34 +509,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter15/practice12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practice13" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter15/practice13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter16/practice3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -513,19 +524,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice (3)" />
-      <item itemvalue="Python.practice11" />
-      <item itemvalue="Python.practice12" />
-      <item itemvalue="Python.practice13" />
       <item itemvalue="Python.d" />
+      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.practice2" />
+      <item itemvalue="Python.practice3" />
+      <item itemvalue="Python.Foo3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice3" />
+        <item itemvalue="Python.Foo3" />
+        <item itemvalue="Python.practice2" />
+        <item itemvalue="Python.practice" />
         <item itemvalue="Python.d" />
-        <item itemvalue="Python.practice13" />
-        <item itemvalue="Python.practice12" />
-        <item itemvalue="Python.practice11" />
-        <item itemvalue="Python.practice (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -543,15 +554,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20897156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03411514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35526314" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35179153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39802632" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -566,7 +577,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.066739604" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.03251599" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,23 +587,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daily_work/day7/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/day7/a_new.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/day5/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daily_work/day5/b.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -898,45 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <marker date="1547672641076" expanded="true" signature="145:150" ph="..." />
-            <marker date="1547672641076" expanded="true" signature="398:403" ph="..." />
-            <marker date="1547672641076" expanded="true" signature="865:870" ph="..." />
-            <marker date="1547672641076" expanded="true" signature="951:956" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
-          <folding>
-            <marker date="1547674696394" expanded="true" signature="730:735" ph="..." />
-            <marker date="1547674696394" expanded="true" signature="924:929" ph="..." />
-            <marker date="1547674696394" expanded="true" signature="1565:1570" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daily_work/chapter15/d.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -957,10 +912,82 @@
     <entry file="file://$PROJECT_DIR$/daily_work/chapter15/chapter15.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1232">
-            <caret line="56" column="10" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <first_editor relative-caret-position="1254">
+            <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <marker date="1547672641076" expanded="true" signature="145:150" ph="..." />
+            <marker date="1547672641076" expanded="true" signature="398:403" ph="..." />
+            <marker date="1547672641076" expanded="true" signature="865:870" ph="..." />
+            <marker date="1547672641076" expanded="true" signature="951:956" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter15/practice13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding>
+            <marker date="1547674696394" expanded="true" signature="730:735" ph="..." />
+            <marker date="1547674696394" expanded="true" signature="924:929" ph="..." />
+            <marker date="1547674696394" expanded="true" signature="1565:1570" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter16/practice3_Singleton3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter16/practice2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="6" />
+          <folding>
+            <marker date="1547984406678" expanded="true" signature="128:133" ph="..." />
+            <marker date="1547984406678" expanded="true" signature="187:264" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter16/practice3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="59" column="42" lean-forward="true" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding>
+            <marker date="1547988490789" expanded="true" signature="130:135" ph="..." />
+            <marker date="1547988490789" expanded="true" signature="644:694" ph="..." />
+            <marker date="1547988490789" expanded="true" signature="724:725" ph="..." />
+            <marker date="1547988490789" expanded="true" signature="724:784" ph="..." />
+            <marker date="1547988490789" expanded="true" signature="1008:1013" ph="..." />
+            <marker date="1547988490789" expanded="true" signature="1296:1532" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
