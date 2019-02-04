@@ -29,7 +29,7 @@ class People:
         else:
             print('%s的课如下:' % self._name)
             for course in self._course_list:
-                print(course.get_name(), end=' ')
+               print(course.get_name(), end=' ')
             print()
 
 
