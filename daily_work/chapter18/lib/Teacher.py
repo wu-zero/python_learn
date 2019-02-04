@@ -17,7 +17,6 @@ class Teacher(User):
             self.__group_data_list.append([school, course, group])
             return True, "添加班级成功"
 
-    
     @classmethod
     def create(cls):
         teacher_name = input("老师姓名:")

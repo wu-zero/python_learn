@@ -19,7 +19,7 @@ class Student(User):
 
 
 if __name__ == '__main__':
-    stu1 = Student('xm','123')
-    print(stu1.add_group('xm','xx','xx'))
+    stu1 = Student('xm', '123')
+    print(stu1.add_group('xm', 'xx', 'xx'))
     print(stu1.add_group('xm', 'xx', 'xx'))
     print(stu1.group_data_list)

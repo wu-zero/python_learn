@@ -50,8 +50,7 @@ class Group:
         group_name = input("班级名称:")
         group = Group(group_name)
         return group
-        
-        
+
 
 if __name__ == '__main__':
 

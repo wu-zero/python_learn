@@ -1,5 +1,3 @@
-from lib.Group import Group
-
 
 class Course:
     def __init__(self, name='', price=0, cycle=0):
