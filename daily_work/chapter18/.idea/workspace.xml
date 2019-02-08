@@ -16,7 +16,7 @@
     <SUITE FILE_PATH="coverage/chapter18$common.coverage" NAME="common Coverage Results" MODIFIED="1549266468221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/chapter18$Teacher.coverage" NAME="Teacher Coverage Results" MODIFIED="1549268372014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
     <SUITE FILE_PATH="coverage/chapter18$student_src.coverage" NAME="student_src Coverage Results" MODIFIED="1549258775589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
-    <SUITE FILE_PATH="coverage/chapter18$start.coverage" NAME="start Coverage Results" MODIFIED="1549267665516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter18$start.coverage" NAME="start Coverage Results" MODIFIED="1549271601876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chapter18$ASDS.coverage" NAME="ASDS Coverage Results" MODIFIED="1549100232815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/chapter18$user.coverage" NAME="user Coverage Results" MODIFIED="1548677604985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/chapter18$bank.coverage" NAME="bank Coverage Results" MODIFIED="1548677630565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
@@ -36,30 +36,41 @@
       <file leaf-file-name="Course.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Course.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-333">
+            <state relative-caret-position="506">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding>
                 <element signature="e#421#458#0" />
                 <element signature="e#500#667#0" />
                 <element signature="e#724#846#0" />
+                <element signature="e#879#979#0" />
+                <element signature="e#1009#1192#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Group.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Group.py">
+      <file leaf-file-name="manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="550">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
               <folding>
-                <element signature="e#292#318#0" />
-                <element signature="e#374#532#0" />
-                <element signature="e#588#781#0" />
-                <element signature="e#828#865#0" />
-                <element signature="e#922#1074#0" />
-                <element signature="e#1141#1336#0" />
-                <element signature="e#1470#1552#0" />
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#320#613#0" />
+                <element signature="e#850#963#0" />
+                <element signature="e#1012#1138#0" />
+                <element signature="e#1213#1453#0" />
+                <element signature="e#1503#1798#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -88,7 +99,7 @@
       <file leaf-file-name="School.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/School.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="682">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -106,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -140,33 +151,12 @@
       <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="3102">
               <caret line="142" selection-start-line="142" selection-end-line="142" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
                 <element signature="e#4757#5358#0" />
                 <element signature="e#5440#5640#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manager_src.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/manager_src.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="813">
-              <caret line="144" selection-start-line="144" selection-end-line="144" />
-              <folding>
-                <element signature="e#52#72#0" />
-                <element signature="e#93#117#0" />
-                <element signature="e#137#713#0" />
-                <element signature="e#737#1264#0" />
-                <element signature="e#1307#1464#0" />
-                <element signature="e#1512#1721#0" />
-                <element signature="e#1769#2104#0" />
-                <element signature="e#2151#2786#0" />
-                <element signature="e#2835#3093#0" />
-                <element signature="e#3145#3800#0" />
               </folding>
             </state>
           </provider>
@@ -244,56 +234,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="563" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -305,11 +255,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chapter18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -333,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Teacher">
+  <component name="RunManager" selected="Python.start">
     <configuration name="Teacher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="chapter18" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -438,8 +399,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Teacher" />
         <item itemvalue="Python.start" />
+        <item itemvalue="Python.Teacher" />
         <item itemvalue="Python.common" />
         <item itemvalue="Python.teacher_src" />
         <item itemvalue="Python.student_src" />
@@ -460,17 +421,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="450" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24275862" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7337931" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6261468" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24153645" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -510,12 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#74#338#0" />
-            <element signature="e#377#960#0" />
-            <element signature="e#1035#1443#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,12 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#74#338#0" />
-            <element signature="e#377#960#0" />
-            <element signature="e#1035#1443#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,17 +545,20 @@
     <entry file="file://$PROJECT_DIR$/db/manager/xm.json" />
     <entry file="file://$PROJECT_DIR$/interface/shopping.py" />
     <entry file="file://$PROJECT_DIR$/core/src.py" />
-    <entry file="file://$PROJECT_DIR$/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/student_src.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
+          <folding>
+            <element signature="e#51#71#0" />
+            <element signature="e#136#712#0" />
+            <element signature="e#736#1263#0" />
+            <element signature="e#1300#1457#0" />
+            <element signature="e#1504#2003#0" />
+            <element signature="e#2049#2256#0" />
+            <element signature="e#2269#2368#0" />
+            <element signature="e#2386#2654#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -615,6 +566,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="140" column="4" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="4" />
+          <folding>
+            <element signature="e#51#71#0" />
+            <element signature="e#92#116#0" />
+            <element signature="e#136#712#0" />
+            <element signature="e#736#1321#0" />
+            <element signature="e#1358#1515#0" />
+            <element signature="e#1562#2061#0" />
+            <element signature="e#2107#2301#0" />
+            <element signature="e#2356#2931#0" />
+            <element signature="e#2946#3076#0" />
+            <element signature="e#3094#3376#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -639,18 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#320#613#0" />
-            <element signature="e#1503#1798#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -658,12 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="61" selection-start-line="61" selection-end-line="62" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#74#338#0" />
-            <element signature="e#377#960#0" />
-            <element signature="e#1035#1443#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,30 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Course.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <folding>
-            <element signature="e#421#458#0" />
-            <element signature="e#500#667#0" />
-            <element signature="e#724#846#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/Group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#292#318#0" />
-            <element signature="e#374#532#0" />
-            <element signature="e#588#781#0" />
-            <element signature="e#828#865#0" />
-            <element signature="e#922#1074#0" />
-            <element signature="e#1141#1336#0" />
-            <element signature="e#1470#1552#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,7 +654,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/School.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="682">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -776,7 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="3102">
           <caret line="142" selection-start-line="142" selection-end-line="142" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
@@ -789,7 +714,43 @@
     <entry file="file://$PROJECT_DIR$/lib/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#421#458#0" />
+            <element signature="e#500#667#0" />
+            <element signature="e#724#846#0" />
+            <element signature="e#879#979#0" />
+            <element signature="e#1009#1192#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#320#613#0" />
+            <element signature="e#850#963#0" />
+            <element signature="e#1012#1138#0" />
+            <element signature="e#1213#1453#0" />
+            <element signature="e#1503#1798#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>

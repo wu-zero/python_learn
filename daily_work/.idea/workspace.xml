@@ -49,23 +49,23 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="chapter16.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter16/chapter16.md">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="chapter15.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter15/chapter15.md">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="practice13.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="practice13.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter15/practice13.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter19.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter19/chapter19.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="chapter14.md" pinned="false" current-in-tab="false">
@@ -96,7 +96,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="920" />
     <option name="height" value="1040" />
@@ -116,7 +116,12 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="daily_work" type="cbb8eebc:String" user="daily_work" />
-              <item name="chapter15" type="cbb8eebc:String" user="chapter15" />
+              <item name="chapter17" type="cbb8eebc:String" user="chapter17" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="daily_work" type="cbb8eebc:String" user="daily_work" />
+              <item name="chapter19" type="cbb8eebc:String" user="chapter19" />
             </path>
           </expand>
           <select />
@@ -187,9 +192,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter18" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wu\Documents\GitHub\python_learn\daily_work\chapter19" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +227,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="736" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -226,7 +236,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3933518" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18489583" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -249,6 +259,53 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter17/chapter17.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/e-market/lib/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/e-market/core/src.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/e-market/bin/start.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/e-market/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16/chapter16.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/chapter15.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/chapter14.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/practice13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter17/chapter17.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -415,6 +472,9 @@
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter19/chapter19.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
