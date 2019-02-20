@@ -21,10 +21,11 @@ while True:
             stdout = res.stdout.read()
             stderr = res.stderr.read()
 
-            conn.send(stdout + stderr)
-
+            if stdout+stderr != b'':
+                conn.send(stdout + stderr)
+            else:
+                conn.send('None'.encode('gbk'))
         except Exception as e:
-            print(e)
             break
     conn.close()
     print('当前连接断开')

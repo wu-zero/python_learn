@@ -13,8 +13,9 @@ while True:
     if msg == 'quit':
         break
     tcp_client.send(msg.encode('gbk'))
-
+    print(1)
     msg_res = tcp_client.recv(1024)
+    print(2)
     print(msg_res.decode('gbk'))
 
 tcp_client.close()
