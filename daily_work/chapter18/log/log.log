@@ -35,3 +35,4 @@
 [2019-02-04 16:07:56,597][MainThread:20108][task_id:common][common.py:12][INFO][teacher1登录了(身份:teacher)]
 [2019-02-04 16:08:39,874][MainThread:20108][task_id:common][common.py:204][INFO][上海学校AI课程三班班级设置student1学生成绩为66]
 [2019-02-04 16:08:58,292][MainThread:20108][task_id:common][common.py:12][INFO][student1登录了(身份:student)]
+[2019-02-20 19:40:59,355][MainThread:2116][task_id:common][common.py:12][INFO][teacher1登录了(身份:teacher)]

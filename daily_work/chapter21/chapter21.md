@@ -2,6 +2,7 @@
 #### 1. 自己画一个图，注意是自己画一个图来表示TCP协议工作过程
 ![题1](https://github.com/wu-zero/python_learn/blob/master/daily_work/chapter21/picture1.png)
 
+
 #### 2. 说明TCP协议三次握手和四次挥手的过程和每个阶段服务器所处的工作状态
 [参考](http://www.elecfans.com/d/758978.html)  
 

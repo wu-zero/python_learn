@@ -5,47 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab7b00e-9066-4069-99a7-43e148794089" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/daily_work/chapter22/chapter22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_work/chapter16/practice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter16/practice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_work/chapter16/practice3.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter16/practice3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter18/log/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter18/log/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter18/redme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter21/chapter21.md" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter21/chapter21.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_learn$practice2__2_.coverage" NAME="practice2 (2) Coverage Results" MODIFIED="1547130539086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
     <SUITE FILE_PATH="coverage/python_learn$practice12.coverage" NAME="practice12 Coverage Results" MODIFIED="1547672641103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
-    <SUITE FILE_PATH="coverage/python_learn$dd.coverage" NAME="dd Coverage Results" MODIFIED="1547122927920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
-    <SUITE FILE_PATH="coverage/python_learn$bank.coverage" NAME="bank Coverage Results" MODIFIED="1548677026393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter18/interface" />
-    <SUITE FILE_PATH="coverage/python_learn$practice3.coverage" NAME="practice3 Coverage Results" MODIFIED="1547989754970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
-    <SUITE FILE_PATH="coverage/python_learn$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1546863525281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
-    <SUITE FILE_PATH="coverage/python_learn$src.coverage" NAME="src Coverage Results" MODIFIED="1547389816450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day12/e-market/core" />
-    <SUITE FILE_PATH="coverage/python_learn$practice__1_.coverage" NAME="practice (1) Coverage Results" MODIFIED="1547306589954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day11" />
-    <SUITE FILE_PATH="coverage/python_learn$start.coverage" NAME="start Coverage Results" MODIFIED="1548667276830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter18" />
+    <SUITE FILE_PATH="coverage/python_learn$server.coverage" NAME="server Coverage Results" MODIFIED="1550671109477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter22/practice3" />
     <SUITE FILE_PATH="coverage/python_learn$practice8.coverage" NAME="practice8 Coverage Results" MODIFIED="1547216826653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
-    <SUITE FILE_PATH="coverage/python_learn$Foo3.coverage" NAME="Foo3 Coverage Results" MODIFIED="1547985441118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
-    <SUITE FILE_PATH="coverage/python_learn$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1547984311987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
-    <SUITE FILE_PATH="coverage/python_learn$practice__3_.coverage" NAME="practice (3) Coverage Results" MODIFIED="1547622139418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter14" />
-    <SUITE FILE_PATH="coverage/python_learn$practice5.coverage" NAME="practice5 Coverage Results" MODIFIED="1547211377455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
-    <SUITE FILE_PATH="coverage/python_learn$practice.coverage" NAME="practice Coverage Results" MODIFIED="1547983783251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
-    <SUITE FILE_PATH="coverage/python_learn$practice4.coverage" NAME="practice4 Coverage Results" MODIFIED="1547210592723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
-    <SUITE FILE_PATH="coverage/python_learn$practice1__1_.coverage" NAME="practice1 (1) Coverage Results" MODIFIED="1547123608110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
-    <SUITE FILE_PATH="coverage/python_learn$guess_age2_0.coverage" NAME="guess_age2.0 Coverage Results" MODIFIED="1546861636434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
-    <SUITE FILE_PATH="coverage/python_learn$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1548662450962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter17" />
-    <SUITE FILE_PATH="coverage/python_learn$practice2__1_.coverage" NAME="practice2 (1) Coverage Results" MODIFIED="1548663100017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter17" />
-    <SUITE FILE_PATH="coverage/python_learn$practice11.coverage" NAME="practice11 Coverage Results" MODIFIED="1547670762018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
     <SUITE FILE_PATH="coverage/python_learn$multiplication_table.coverage" NAME="multiplication_table Coverage Results" MODIFIED="1546863104027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
-    <SUITE FILE_PATH="coverage/python_learn$guess_age.coverage" NAME="guess_age Coverage Results" MODIFIED="1546858601640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day1" />
-    <SUITE FILE_PATH="coverage/python_learn$practice13.coverage" NAME="practice13 Coverage Results" MODIFIED="1547674696429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
-    <SUITE FILE_PATH="coverage/python_learn$practice6.coverage" NAME="practice6 Coverage Results" MODIFIED="1547216655530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
-    <SUITE FILE_PATH="coverage/python_learn$d.coverage" NAME="d Coverage Results" MODIFIED="1547676966914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
+    <SUITE FILE_PATH="coverage/python_learn$Foo3.coverage" NAME="Foo3 Coverage Results" MODIFIED="1547985441118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
     <SUITE FILE_PATH="coverage/python_learn$practice__2_.coverage" NAME="practice (2) Coverage Results" MODIFIED="1547560659849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day13" />
-    <SUITE FILE_PATH="coverage/python_learn$practice9.coverage" NAME="practice9 Coverage Results" MODIFIED="1547216891539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
+    <SUITE FILE_PATH="coverage/python_learn$pyramid.coverage" NAME="pyramid Coverage Results" MODIFIED="1546863525281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
+    <SUITE FILE_PATH="coverage/python_learn$practice5.coverage" NAME="practice5 Coverage Results" MODIFIED="1547211377455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
+    <SUITE FILE_PATH="coverage/python_learn$client.coverage" NAME="client Coverage Results" MODIFIED="1550671129833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter22/practice3" />
+    <SUITE FILE_PATH="coverage/python_learn$start.coverage" NAME="start Coverage Results" MODIFIED="1548667276830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter18" />
+    <SUITE FILE_PATH="coverage/python_learn$practice1__1_.coverage" NAME="practice1 (1) Coverage Results" MODIFIED="1547123608110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1547984311987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
+    <SUITE FILE_PATH="coverage/python_learn$practice2__1_.coverage" NAME="practice2 (1) Coverage Results" MODIFIED="1548663100017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter17" />
+    <SUITE FILE_PATH="coverage/python_learn$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1548662450962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter17" />
     <SUITE FILE_PATH="coverage/python_learn$log_in_system.coverage" NAME="log_in_system Coverage Results" MODIFIED="1546862768897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
+    <SUITE FILE_PATH="coverage/python_learn$practice.coverage" NAME="practice Coverage Results" MODIFIED="1547983783251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
+    <SUITE FILE_PATH="coverage/python_learn$src.coverage" NAME="src Coverage Results" MODIFIED="1547389816450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day12/e-market/core" />
+    <SUITE FILE_PATH="coverage/python_learn$practice13.coverage" NAME="practice13 Coverage Results" MODIFIED="1547674696429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
+    <SUITE FILE_PATH="coverage/python_learn$bank.coverage" NAME="bank Coverage Results" MODIFIED="1548677026393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter18/interface" />
+    <SUITE FILE_PATH="coverage/python_learn$practice4.coverage" NAME="practice4 Coverage Results" MODIFIED="1547210592723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
+    <SUITE FILE_PATH="coverage/python_learn$practice2__2_.coverage" NAME="practice2 (2) Coverage Results" MODIFIED="1547130539086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$dd.coverage" NAME="dd Coverage Results" MODIFIED="1547122927920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$guess_age.coverage" NAME="guess_age Coverage Results" MODIFIED="1546858601640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day1" />
+    <SUITE FILE_PATH="coverage/python_learn$practice11.coverage" NAME="practice11 Coverage Results" MODIFIED="1547670762018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
+    <SUITE FILE_PATH="coverage/python_learn$practice__1_.coverage" NAME="practice (1) Coverage Results" MODIFIED="1547306589954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day11" />
+    <SUITE FILE_PATH="coverage/python_learn$practice9.coverage" NAME="practice9 Coverage Results" MODIFIED="1547216891539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
+    <SUITE FILE_PATH="coverage/python_learn$d.coverage" NAME="d Coverage Results" MODIFIED="1547676966914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter15" />
+    <SUITE FILE_PATH="coverage/python_learn$practice3.coverage" NAME="practice3 Coverage Results" MODIFIED="1547989754970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter16" />
+    <SUITE FILE_PATH="coverage/python_learn$guess_age2_0.coverage" NAME="guess_age2.0 Coverage Results" MODIFIED="1546861636434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day2" />
+    <SUITE FILE_PATH="coverage/python_learn$practice__3_.coverage" NAME="practice (3) Coverage Results" MODIFIED="1547622139418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/chapter14" />
+    <SUITE FILE_PATH="coverage/python_learn$practice6.coverage" NAME="practice6 Coverage Results" MODIFIED="1547216655530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily_work/day8" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -65,31 +71,33 @@
     <session id="2070807973">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="2" />
           <entry key="log" value="4" />
-          <entry key="md" value="25" />
+          <entry key="md" value="26" />
           <entry key="npy" value="1" />
-          <entry key="py" value="88" />
+          <entry key="py" value="91" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="2" />
-          <entry key="Markdown" value="25" />
+          <entry key="Markdown" value="26" />
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="88" />
+          <entry key="Python" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -97,51 +105,25 @@
           <entry key="dummy" value="37" />
           <entry key="json" value="75" />
           <entry key="log" value="72" />
-          <entry key="md" value="449" />
+          <entry key="md" value="460" />
           <entry key="npy" value="1" />
-          <entry key="py" value="16175" />
+          <entry key="py" value="16236" />
           <entry key="txt" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="75" />
-          <entry key="Markdown" value="447" />
+          <entry key="Markdown" value="458" />
           <entry key="PLAIN_TEXT" value="236" />
-          <entry key="Python" value="16177" />
+          <entry key="Python" value="16238" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="wyw.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/wyw.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="66" selection-start-column="66" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qwe.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/qwe.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/lib/common.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setting.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_work/chapter18/conf/setting.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -150,63 +132,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="src.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/core/src.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daily_work/chapter22/chapter22.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daily_work/day10/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2728">
-              <caret line="190" selection-start-line="190" selection-end-line="190" />
+            <state relative-caret-position="1034">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daily_work/chapter22/practice3/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daily_work/chapter22/practice3/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
-                <element signature="e#2648#4597#0" />
-                <element signature="e#4650#4754#0" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_handler.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/db_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="286">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bank.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/bank.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-                <element signature="e#131#196#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shopping.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/shopping.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -238,9 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/daily_work/day7/practice.py" />
-        <option value="$PROJECT_DIR$/daily_work/day7/day7.md" />
-        <option value="$PROJECT_DIR$/daily_work/day8/practice.py" />
         <option value="$PROJECT_DIR$/daily_work/day8/practice1_2_3.py" />
         <option value="$PROJECT_DIR$/daily_work/day8/db.txt" />
         <option value="$PROJECT_DIR$/daily_work/day8/practice4.py" />
@@ -289,6 +260,9 @@
         <option value="$PROJECT_DIR$/daily_work/chapter18/db/db_handler.py" />
         <option value="$PROJECT_DIR$/daily_work/chapter18/db/__init__.py" />
         <option value="$PROJECT_DIR$/daily_work/chapter18/interface/bank.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter22/chapter22.md" />
+        <option value="$PROJECT_DIR$/daily_work/chapter22/practice3/client.py" />
+        <option value="$PROJECT_DIR$/daily_work/chapter22/practice3/server.py" />
       </list>
     </option>
   </component>
@@ -298,13 +272,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="420" />
-    <option name="width" value="1920" />
-    <option name="height" value="660" />
+    <option name="x" value="696" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -312,7 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,6 +295,19 @@
               <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learn" type="462c0819:PsiDirectoryNode" />
               <item name="daily_work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="daily_work" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="daily_work" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter22" type="462c0819:PsiDirectoryNode" />
+              <item name="practice3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_learn" type="b2602c69:ProjectViewProjectNode" />
@@ -353,6 +337,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,27 +345,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/daily_work/chapter18" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="python_learn" is-module-sdk="true">
         <option name="myUseModuleSdk" value="true" />
         <option name="myModuleName" value="python_learn" />
-        <option name="myAddSourceRoots" value="true" />
       </console-settings>
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter22" />
       <recent name="C:\Users\wu\Documents\GitHub\python_learn\daily_work\chapter17" />
       <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter16" />
       <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter15" />
       <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter14" />
-      <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\day10" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -395,7 +379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bank">
+  <component name="RunManager" selected="Python.client">
     <configuration name="bank" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -414,8 +398,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="practice1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,16 +410,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter22/practice3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\wu\Documents\GitHub\python_learn\daily_work\chapter17\practice2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter22/practice3/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="practice2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
@@ -452,8 +442,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="practice3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -461,16 +454,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_work/chapter22/practice3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter16/practice3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_work/chapter22/practice3/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn" />
@@ -490,21 +486,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice3" />
-      <item itemvalue="Python.practice1" />
       <item itemvalue="Python.practice2 (1)" />
       <item itemvalue="Python.start" />
       <item itemvalue="Python.bank" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.server" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.bank" />
         <item itemvalue="Python.start" />
         <item itemvalue="Python.practice2 (1)" />
-        <item itemvalue="Python.practice1" />
-        <item itemvalue="Python.practice3" />
       </list>
     </recent_temporary>
   </component>
@@ -521,30 +520,40 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29972374" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2265625" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.037760418" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31813246" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39802632" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.07622601" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,26 +562,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daily_work/day7/day7.md" />
-    <entry file="file://$PROJECT_DIR$/daily_work/day6/day6.md" />
-    <entry file="file://$PROJECT_DIR$/daily_work/day10/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/day12/e-market/log/access.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/python_learn/Lib/logging/config.py" />
     <entry file="file://$USER_HOME$/Anaconda3/envs/python_learn/Lib/logging/__init__.py" />
     <entry file="file://$PROJECT_DIR$/daily_work/day8/db.txt">
@@ -622,9 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="53" column="71" selection-start-line="53" selection-start-column="71" selection-end-line="53" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,19 +773,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/wyw.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="66" selection-start-column="66" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/qwe.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/conf/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/wyw.json" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/qwe.json" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/conf/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/core/src.py" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/user.py" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/lib/common.py" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/shopping.py" />
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/bank.py" />
     <entry file="file://$PROJECT_DIR$/daily_work/chapter18/conf/setting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -806,67 +789,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/core/src.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2728">
-          <caret line="190" selection-start-line="190" selection-end-line="190" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <element signature="e#2648#4597#0" />
-            <element signature="e#4650#4754#0" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter22/chapter22.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/user.py">
+    <entry file="file://$PROJECT_DIR$/daily_work/day10/practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/lib/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/shopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1034">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daily_work/chapter18/db/db_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="286">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_work/chapter18/interface/bank.py">
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter22/practice3/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="352">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily_work/chapter22/practice3/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#131#196#0" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
