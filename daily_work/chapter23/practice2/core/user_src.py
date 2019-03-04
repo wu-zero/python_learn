@@ -79,7 +79,7 @@ def login_auth(func):
 @login_auth
 def send_message_to_friend():
 
-    print(user_interface.get_friend_list(user_now_name))
+    print(user_interface.get_friends_list(user_now_name))
     friend_name = input("朋友名字:")
     while True:
         messages = input("信息>>").strip().encode('utf-8')
@@ -93,7 +93,7 @@ def send_message_to_friend():
             client.sendto(struct.pack('i', cm.ChatCommand) + messages, ('127.0.0.1', 8080))
             # data, addr = client.recvfrom(1024)
             # print("Receive a message from {}:{}".format(addr, data.decode('utf-8')))
-    client.close()
+    # client.close()
 
 
 
@@ -104,14 +104,36 @@ def receive_message_to_friend():
         print(data.decode('utf-8'))
 
 
+
+@login_auth
+def send_message_to_group():
+    print(user_interface.get_groups_list(user_now_name))
+    group_name = input("群聊名称:")
+    while True:
+        messages = input("信息>>").strip().encode('utf-8')
+        if not messages:
+            print("不能为空...")
+            continue
+        elif messages == b'q':
+            break
+        else:
+            messages = (group_name + '|').encode('utf-8') + messages
+            client.sendto(struct.pack('i', cm.GroupChatCommand) + messages, ('127.0.0.1', 8080))
+            # data, addr = client.recvfrom(1024)
+            # print("Receive a message from {}:{}".format(addr, data.decode('utf-8')))
+    # client.close()
+
 @login_auth
 def add_friend():
-    print(user_interface.get_friend_list(user_now_name))
+    print("已有好友")
+    print(user_interface.get_friends_list(user_now_name))
     user_interface.add_friend_interface(user_now_name)
 
 @login_auth
 def add_group_chat():
-    pass
+    print("已有群")
+    print(user_interface.get_groups_list(user_now_name))
+    user_interface.add_group_interface(user_now_name)
 
 
 func_dic = {
@@ -119,8 +141,9 @@ func_dic = {
     '2': register,
     '3': send_message_to_friend,
     '4': receive_message_to_friend,
-    '5': add_friend,
-    '6': add_group_chat,
+    '5': send_message_to_group,
+    '7': add_friend,
+    '8': add_group_chat,
     '9': logout
 
 }
@@ -133,8 +156,9 @@ def run():
         2、注册
         3、发消息
         4、接受信息
-        5、添加朋友
-        6、添加群聊
+        5、给群发消息
+        7、添加朋友
+        8、添加群聊
         9、退出登陆
         q、退出
         ''')

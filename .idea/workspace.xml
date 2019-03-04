@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab7b00e-9066-4069-99a7-43e148794089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/conf/command.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/core/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/interface/user_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice3/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice3/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/interface/common.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_work/chapter22/chapter22.md" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter22/chapter22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_work/chapter22/practice3/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter22/practice3/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_work/chapter22/practice3/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter22/practice3/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/conf/command.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/conf/command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/conf/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/conf/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/core/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/core/server_src.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/core/user_src.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/core/user_src.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/db/user/xg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/db/user/xm.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/interface/user_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/interface/user_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/lib/GroupChat.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/lib/GroupChat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/lib/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/lib/User.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_work/chapter23/practice2/log/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/daily_work/chapter23/practice2/log/log.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +258,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="550" />
     <option name="y" value="21" />
     <option name="width" value="1357" />

@@ -1,14 +1,18 @@
 from conf.setting import SERVER_IP_PORT
 import conf.command as cm
+from interface import common
 import socket
-import struct
+
 server = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) # 数据报协议
 server.bind(SERVER_IP_PORT)
 
 user_dict = {}
 online_user = []
+group_dict = {}
+
 
 def solve_data(data):
+    import struct
     command = struct.unpack('i', data[:4])[0]
     message = data[4:].decode('utf-8')
     return command, message
@@ -43,10 +47,26 @@ while True:
             server.sendto(message, friend_address)
         # else:
         #     server.sendto(message, addr)
-        print(friend_name)
-        print(message)
+
+    elif command == cm.GroupChatCommand:
+        message_list = message.split('|')
+        group_name = message_list[0]
+        message = (sender + '：' + message_list[1]).encode('utf-8')
+        group_dict = common.get_group_dict_interface()
+        if group_name in group_dict.keys():
+            group_users = group_dict[group_name]
+            for user in group_users:
+                if user in online_user:
+                    friend_address = user_dict[user]
+                    server.sendto(message, friend_address)
 
 
-    print(online_user)
-    print(user_dict)
+
+        # else:
+        #     server.sendto(message, addr)
+
+
+
+    # print(online_user)
+    # print(user_dict)
 server.close()

@@ -5,7 +5,7 @@ SERVER_IP_PORT = ('127.0.0.1', 8080)
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 BASE_DB_DIR = os.path.join(BASE_DIR, 'db')
 BASE_USER_DB = os.path.join(BASE_DB_DIR, 'user')
-BASE_GROUP_CHAT_DB = os.path.join(BASE_DIR, 'groupchat')
+BASE_GROUP_CHAT_DB = os.path.join(BASE_DB_DIR, 'groupchat')
 
 BASE_LOG = os.path.join(BASE_DIR, 'log')
 
