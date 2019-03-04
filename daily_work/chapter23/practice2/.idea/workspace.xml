@@ -2,19 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e3b2d9-86c6-45c8-82c4-7eddb6f9d5f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interface/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/chapter24.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/.idea/practice2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/conf/command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/conf/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/core/server_src.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/core/user_src.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/db/db_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/db/groupchat/g1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/db/groupchat/g2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/db/user/xh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/interface/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/interface/user_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/lib/GroupChat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/lib/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/lib/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter24/practice/log/log.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/command.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf/command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/server_src.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user_src.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/user_src.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/user/xg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/user/xm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/user_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/user_interface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/GroupChat.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/GroupChat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/User.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/server_src.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/server_src.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/user/xg.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter24/practice/db/user/xg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/user/xm.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter24/practice/db/user/xm.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter24/practice/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter24/practice/start.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,43 +40,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/practice2$server_src.coverage" NAME="server_src Coverage Results" MODIFIED="1551670090660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
     <SUITE FILE_PATH="coverage/practice2$common.coverage" NAME="common Coverage Results" MODIFIED="1551668405769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/practice2$server.coverage" NAME="server Coverage Results" MODIFIED="1551668597162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
     <SUITE FILE_PATH="coverage/practice2$User.coverage" NAME="User Coverage Results" MODIFIED="1551667654220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/practice2$server_run.coverage" NAME="server_run Coverage Results" MODIFIED="1551670403449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice2$GroupChat.coverage" NAME="GroupChat Coverage Results" MODIFIED="1551624642763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
     <SUITE FILE_PATH="coverage/practice2$user_src.coverage" NAME="user_src Coverage Results" MODIFIED="1551668636027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/practice2$user_run.coverage" NAME="user_run Coverage Results" MODIFIED="1551670483949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice2$setting.coverage" NAME="setting Coverage Results" MODIFIED="1551611212408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conf" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="762440953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="18" />
-          <entry key="py" value="3297" />
+          <entry key="dummy" value="28" />
+          <entry key="py" value="3347" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="3297" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="3347" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -69,34 +89,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/user_src.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
+            <state relative-caret-position="935">
               <caret line="120" column="33" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <marker date="1551667930144" expanded="true" signature="2778:3403" ph="..." />
-                <marker date="1551667930144" expanded="true" signature="3450:3565" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/db_handler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/User.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -104,12 +102,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/user_interface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="1628">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
               <folding>
-                <element signature="e#0#83#0" expanded="true" />
-                <element signature="e#466#716#0" />
-                <element signature="e#755#878#0" />
                 <marker date="1551667968841" expanded="true" signature="515:772" ph="..." />
                 <marker date="1551667968841" expanded="true" signature="1229:1307" ph="..." />
                 <marker date="1551667968841" expanded="false" signature="1835:1836" ph="..." />
@@ -122,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/interface/common.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
               <folding>
                 <marker date="1551668405734" expanded="true" signature="97:102" ph="..." />
               </folding>
@@ -134,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/lib/GroupChat.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -153,13 +148,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/server_src.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+            <state>
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <marker date="1551668580130" expanded="true" signature="294:577" ph="..." />
-                <marker date="1551668580130" expanded="true" signature="444:575" ph="..." />
+                <element signature="e#1#26#0" expanded="true" />
+                <element signature="e#281#407#0" />
+                <element signature="e#449#573#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server_run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -177,7 +181,7 @@
         <entry file="file://$PROJECT_DIR$/conf/command.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -196,6 +200,7 @@
       <find>user_now_name</find>
       <find>struct</find>
       <find>__group</find>
+      <find>bind</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,6 +219,11 @@
         <option value="$PROJECT_DIR$/interface/user_interface.py" />
         <option value="$PROJECT_DIR$/interface/common.py" />
         <option value="$PROJECT_DIR$/core/server.py" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/log/user_run.py" />
+        <option value="$PROJECT_DIR$/user_run.py" />
+        <option value="$PROJECT_DIR$/core/server_src.py" />
+        <option value="$PROJECT_DIR$/server_run.py" />
       </list>
     </option>
   </component>
@@ -224,8 +234,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="550" />
-    <option name="y" value="21" />
+    <option name="x" value="309" />
+    <option name="y" value="119" />
     <option name="width" value="1357" />
     <option name="height" value="1047" />
   </component>
@@ -274,6 +284,11 @@
               <item name="practice2" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practice2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice2" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -285,6 +300,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter23\practice2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,73 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.user_src">
-    <configuration name="GroupChat" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/GroupChat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="User" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/User.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/common.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.user_run">
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -379,6 +333,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\wyw\Documents\GitHub\python_learn\daily_work\chapter23\practice2\core\server_src.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_src" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/server_src.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user_run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,17 +432,17 @@
     <list>
       <item itemvalue="Python.server" />
       <item itemvalue="Python.user_src" />
-      <item itemvalue="Python.User" />
-      <item itemvalue="Python.GroupChat" />
-      <item itemvalue="Python.common" />
+      <item itemvalue="Python.server_run" />
+      <item itemvalue="Python.user_run" />
+      <item itemvalue="Python.server_src" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.user_run" />
+        <item itemvalue="Python.server_run" />
+        <item itemvalue="Python.server_src" />
         <item itemvalue="Python.user_src" />
         <item itemvalue="Python.server" />
-        <item itemvalue="Python.common" />
-        <item itemvalue="Python.User" />
-        <item itemvalue="Python.GroupChat" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +463,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -475,6 +495,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/interface/student.py" />
     <entry file="file://$PROJECT_DIR$/core/user_src2.py" />
+    <entry file="file://$PROJECT_DIR$/db/db_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/user_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <marker date="1551667968841" expanded="true" signature="515:772" ph="..." />
+            <marker date="1551667968841" expanded="true" signature="1229:1307" ph="..." />
+            <marker date="1551667968841" expanded="false" signature="1835:1836" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <marker date="1551668405734" expanded="true" signature="97:102" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GroupChat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -484,27 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/GroupChat.py">
+    <entry file="file://$PROJECT_DIR$/conf/command.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/User.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/db_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="110">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -515,58 +564,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/user_interface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-            <element signature="e#466#716#0" />
-            <element signature="e#755#878#0" />
-            <marker date="1551667968841" expanded="true" signature="515:772" ph="..." />
-            <marker date="1551667968841" expanded="true" signature="1229:1307" ph="..." />
-            <marker date="1551667968841" expanded="false" signature="1835:1836" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/command.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <marker date="1551668405734" expanded="true" signature="97:102" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/user_src.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
+        <state relative-caret-position="935">
           <caret line="120" column="33" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1551667930144" expanded="true" signature="2778:3403" ph="..." />
-            <marker date="1551667930144" expanded="true" signature="3450:3565" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/server_src.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        <state>
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <marker date="1551668580130" expanded="true" signature="294:577" ph="..." />
-            <marker date="1551668580130" expanded="true" signature="444:575" ph="..." />
+            <element signature="e#1#26#0" expanded="true" />
+            <element signature="e#281#407#0" />
+            <element signature="e#449#573#0" />
           </folding>
         </state>
       </provider>
